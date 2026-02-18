@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm Tusharkanta, currently working on SkillHunter and exploring the world of Three.js animations. 🚀<br><br>💡 Looking to collaborate on: Three.js projects, interactive web experiences, and creative animations.<br>📚 Currently learning: Three.js & advanced web development.<br>💬 Ask me about: Freelancing, web dev, and cool side projects!<br>😄 Fun fact: I'm a beginner, but I hustle like a pro! 💪
+# Hi, I'm Tusharkanta 👋  
+
+🚀 Building AI-powered products & scalable backend systems.  
+🧠 Aspiring AI Engineer | Full Stack Developer |
 
 
 ## 🌐 Socials:
