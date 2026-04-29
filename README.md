@@ -40,35 +40,6 @@ class Tusharkanta:
 
 ## Projects
 
-### 🛡️ ScamShield AI
-> *Multi-turn agentic honeypot for fraud detection*
-
-**Python · FastAPI · LangChain · OpenAI API · Docker**
-
-- Built a production-style FastAPI service enabling **session-based multi-turn agentic conversations**
-- Hybrid fraud detection pipeline: **rule-based signals + LLM classification (LangChain)** to detect scam intent dynamically
-- Persona-driven conversation logic — agent responses adapt based on detected intent to extract actionable intelligence from scammers
-- Automated extraction of fraud indicators (UPI IDs, phone numbers, URLs) · Containerized with **Docker**
-
-[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-
----
-
-### 🌿 Ayursutra
-> *AI-powered Ayurvedic wellness platform*
-
-**Next.js 14 · FastAPI · PostgreSQL · TensorFlow/Keras · Redis · Tailwind CSS**
-
-- Full-stack wellness platform with **role-based access** (users, clinics, admins)
-- **AI therapy recommendation system** built with TensorFlow/Keras, served via FastAPI microservice
-- Async processing pipeline using **BullMQ + Redis** for ML-based tongue analysis during onboarding
-- **Real-time admin dashboard** via WebSocket + Redis Pub/Sub for instant clinic visibility
-
-[![Live](https://img.shields.io/badge/Live-00C853?style=flat-square&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-
----
 
 ### ⚡ MetaForge
 > *Turns metadata into live APIs in seconds*
