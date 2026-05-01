@@ -50,7 +50,7 @@ class Tusharkanta:
 - Leverages **LangGraph** for orchestrated multi-step agentic workflows
 - Designed for teams who want their data contracts to drive their API layer directly
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#https://github.com/Tusharkanta407/Metaforge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tusharkanta407/Metaforge)
 
 
 
