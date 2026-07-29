@@ -33,7 +33,7 @@ class Tusharkanta:
     ]
     philosophy  = "I go deep — I care about how systems behave under real usage"
     currently   = "Building MetaForge — turns metadata into live APIs in seconds"
-    fun_fact    = "Gold Medalist in Odisha Skills + won a hackathon at IIT Bhubaneswar"
+    fun_fact    = "Gold Medalist in Odisha Skills + Silver medalist in India skill"
 ```
 
 ---
